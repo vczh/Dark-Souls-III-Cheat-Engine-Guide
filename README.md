@@ -12,11 +12,14 @@ Tested with latest [Cheat Engine 6.8](https://github.com/cheat-engine/cheat-engi
 
 #### Public tables:  
 
-[![Table](http://i.imgur.com/4n3DWEe.png)](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/1fe25471974b5b53c56d541a1525256e/DS3_Reverse-Souls_v1.1.9.zip)  
-<sub>[alternative mirror](https://mega.nz/#!qZ0mCAYA!htVDVhBXhS-baRHZgykbjN7MmuczIHWU7j1D9XoL0fY)</sub>  
-* v1.1.9 - 07.10.2018
-  * Removed: Unused items from Dropdowns
-
+[![Table](http://i.imgur.com/4n3DWEe.png)](https://github.com/igromanru/Dark-Souls-III-Cheat-Engine-Guide/releases/download/1.2.2/DS3_v1.2.2_2019.rar)  
+<sub>[alternative mirror](https://mega.nz/#!3c0FEALS!6WX5wocDwlWVl5gb8azNiaDnd48r9f1B3DSZdlNHciM)</sub>  
+* v1.2.2 - 14.07.2019
+  * Added Rebirth Menu function call.
+  * Fixed BonfireWarp in "Helpers" header.
+  * Fixed Organization around the table, namely the Camera header
+  * Changed the name of the Stat Checker for clarity on what it does.
+  * Updated the table info (FAQ) with more information.
 * <sub>for more see [changelog](sites/changelog.md)</sub>
 
 ## Index
@@ -176,7 +179,7 @@ Aerthas Veras | contributed
 RBT | New World flags, Player counter
 Ainsley Harriott | Param Dumps and Offsets, spreadsheet contribution, some scripts
 Pavuk | spreadsheet and table contribution, some other stuff
-Loki | Tutorials, Param Patcher scripts
+Loki | Tutorials, Table Contribution, Assembly Scripts
 
 OldSchoolHack | Reason               
 ------------- | ---------------------
